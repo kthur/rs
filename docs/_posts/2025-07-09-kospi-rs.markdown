@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "코스피 상대강도 2025년 7월 9일"
-date: 2025-07-09 05:25:25 +0900
+date: 2025-07-09 07:01:18 +0900
 categories: rs
 ---
 코스피 전 종목의 상대강도를 계산했다.
@@ -685,18 +685,18 @@ categories: rs
 |[002140](https://finance.daum.net/quotes/A002140)|고려산업|3090|2935|29 (-5)|
 |[008700](https://finance.daum.net/quotes/A008700)|아남전자|1725|1502|29 (-5)|
 |[093230](https://finance.daum.net/quotes/A093230)|이아이디|1392|1392|28 (-2)|
-|[008110](https://finance.daum.net/quotes/A008110)|대동전자|15040|15040|28 (-2)|
-|[091090](https://finance.daum.net/quotes/A091090)|세원이앤씨|1270|1270|28 (-2)|
-|[007610](https://finance.daum.net/quotes/A007610)|선도전기|3000|3000|28 (-2)|
-|[010600](https://finance.daum.net/quotes/A010600)|웰바이오텍|545|545|28 (-2)|
+|[005110](https://finance.daum.net/quotes/A005110)|한창|1254|1254|28 (-2)|
+|[001140](https://finance.daum.net/quotes/A001140)|국보|2110|2110|28 (-2)|
 |[006380](https://finance.daum.net/quotes/A006380)|카프로|3660|3660|28 (-2)|
+|[000300](https://finance.daum.net/quotes/A000300)|DH오토넥스|1984|1984|28 (-2)|
+|[102280](https://finance.daum.net/quotes/A102280)|쌍방울|2690|2690|28 (-2)|
+|[091090](https://finance.daum.net/quotes/A091090)|세원이앤씨|1270|1270|28 (-2)|
+|[008110](https://finance.daum.net/quotes/A008110)|대동전자|15040|15040|28 (-2)|
 |[140910](https://finance.daum.net/quotes/A140910)|에이리츠|3130|3130|28 (-2)|
 |[005030](https://finance.daum.net/quotes/A005030)|부산주공|486|486|28 (-2)|
-|[005110](https://finance.daum.net/quotes/A005110)|한창|1254|1254|28 (-2)|
+|[010600](https://finance.daum.net/quotes/A010600)|웰바이오텍|545|545|28 (-2)|
 |[033180](https://finance.daum.net/quotes/A033180)|KH 필룩스|5310|5310|28 (-2)|
-|[102280](https://finance.daum.net/quotes/A102280)|쌍방울|2690|2690|28 (-2)|
-|[000300](https://finance.daum.net/quotes/A000300)|DH오토넥스|1984|1984|28 (-2)|
-|[001140](https://finance.daum.net/quotes/A001140)|국보|2110|2110|28 (-2)|
+|[007610](https://finance.daum.net/quotes/A007610)|선도전기|3000|3000|28 (-2)|
 |[003560](https://finance.daum.net/quotes/A003560)|IHQ|10760|10760|28 (-2)|
 |[005430](https://finance.daum.net/quotes/A005430)|한국공항|70000|55300|28 (+1)|
 |[361610](https://finance.daum.net/quotes/A361610)|SK아이이테크놀로지|43800|28050|28 (-9)|
